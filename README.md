@@ -1,4 +1,4 @@
-# joshx.dev
+# my portfolio
 Codebase for my website
 
 ```bash
